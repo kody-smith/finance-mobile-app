@@ -1,16 +1,26 @@
-# finance_tracker
+# Flutter Mobile App
 
-A new Flutter project.
+This is a mobile app developed using Flutter and Dart. The app is designed to be a finance tracking app that will help you stay up to date on your income and expense and have a comprehensive view of your total balance. 
 
-## Getting Started
+Here is a link to a video in which I demo the app and explain more in depth how it works.
 
-This project is a starting point for a Flutter application.
+[Software Demo Video](https://youtu.be/t_hEy9EqqP0)
 
-A few resources to get you started if this is your first Flutter project:
+# Development Environment
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I developed this app using Flutter and Dart. Flutter is a development environment that allows you to build mobile apps for both iOS and Android. Flutter uses the Dart language to acomplish this.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Useful Websites
+
+Below are some websites that I found to be very useful as resources for building this app.
+
+* [Flutter Tutorials](https://docs.flutter.dev/reference/tutorials)
+* [Flutter Intro to Widgets](https://docs.flutter.dev/development/ui/widgets-intro)
+
+# Future Work
+
+Some changes I plan on adding to this app include:
+
+* Add savings goals and compare balance against that.
+* Display transactions from most recent to least recent.
+* Touch up design and interface.
